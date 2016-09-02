@@ -1,0 +1,132 @@
+body {
+	background: blue;
+}
+.hamburger {
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	}
+.title {
+	background: #990000;
+	color: white;
+	font-family: 'Gloria Hallelujah', cursive;
+	border: black ridge 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	position: fixed;
+	width: 100%;
+}
+	.profiles {
+		font-color: white;
+	border: yellow solid;
+	border-width: 5px;
+	display: inline-block;
+	background: #336699;
+	color: #000099;
+	width: 500px;
+	height: 500px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.name {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+}
+.picture {
+
+width:150px;
+height: 100px;
+}
+.picture:hover {
+width:300px;
+height:200px;
+}
+.social {
+width: 75px;
+height: 50px;
+
+}
+.contact {
+	font-family: 'Arvo', serif;
+	text-align: center;
+
+}
+
+
+@media screen and (min-width:500px) {
+  nav {
+    float: left;
+    width: 25%;
+  }
+  section {
+    margin-left: 25%;
+  }
+	
+  nav li {
+    display: inline;
+  }
+
+body {
+	background: #ff6600;
+
+}
+.hamburger {
+	width: 50px;
+	height: 50px;
+	position: fixed;
+}
+
+.title {
+	
+	background: #ff0000;
+	color: #000099;
+	font-family: 'Gloria Hallelujah', cursive;
+	border: orange ridge 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	position: fixed;
+	width: 100%;
+
+	
+
+}
+.profiles {
+	border: yellow solid;
+	border-width: 10px;
+	display: inline-block;
+	background: #ccffff;
+	color: #000099;
+	width: 500px;
+	height: 500px;
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
+.name {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+}
+.picture {
+
+width:150px;
+height: 100px;
+}
+.picture:hover {
+width:300px;
+height:200px;
+}
+.social {
+width: 75px;
+height: 50px;
+
+}
+.contact {
+	font-family: 'Arvo', serif;
+	text-align: center;
+
+}
+
+}
+
+
+
