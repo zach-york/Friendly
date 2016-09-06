@@ -55,7 +55,7 @@ height: 50px;
 }
 
 
-@media screen and (min-width:400px) {
+@media screen and (min-width:500px) {
   nav {
     float: left;
     width: 25%;
